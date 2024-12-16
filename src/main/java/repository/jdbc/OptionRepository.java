@@ -1,5 +1,6 @@
 package main.java.repository.jdbc;
 
+import main.java.model.Option;
 import java.util.List;
 
 public interface OptionRepository {

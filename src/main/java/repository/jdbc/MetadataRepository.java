@@ -1,5 +1,7 @@
 package main.java.repository.jdbc;
 
+import main.java.model.Metadata;
+
 import java.util.List;
 
 public interface MetadataRepository {

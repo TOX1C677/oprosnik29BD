@@ -1,6 +1,6 @@
 package main.java.service;
 import main.java.model.Survey;
-import main.java.repository.jdbc.SurveyRepository;
+import main.java.repository.SurveyRepository;
 
 import java.util.List;
 

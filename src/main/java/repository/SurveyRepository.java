@@ -1,4 +1,4 @@
-package main.java.repository.jdbc;
+package main.java.repository;
 
 import main.java.model.Survey;
 
