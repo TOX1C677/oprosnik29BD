@@ -1,5 +1,6 @@
 package main.java.repository.memory;
 
+import main.java.model.Survey;
 import main.java.repository.jdbc.SurveyRepository;
 
 import java.util.ArrayList;

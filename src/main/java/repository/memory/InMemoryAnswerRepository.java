@@ -1,5 +1,6 @@
 package main.java.repository.memory;
 
+import main.java.model.Answer;
 import main.java.repository.jdbc.AnswerRepository;
 
 import java.util.ArrayList;

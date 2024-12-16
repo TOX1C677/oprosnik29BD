@@ -1,5 +1,8 @@
 package main.java.service;
 
+import main.java.model.Answer;
+import main.java.repository.jdbc.AnswerRepository;
+
 import java.util.List;
 
 public class AnswerServiceImpl implements AnswerService {

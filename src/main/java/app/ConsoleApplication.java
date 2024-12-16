@@ -1,5 +1,7 @@
 package main.java.app;
 
+import main.java.model.Question;
+import main.java.model.Survey;
 import main.java.service.QuestionService;
 import main.java.service.SurveyService;
 

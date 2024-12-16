@@ -1,5 +1,8 @@
 package main.java.service;
 
+import main.java.model.Question;
+import main.java.repository.jdbc.QuestionRepository;
+
 import java.util.List;
 
 public class QuestionServiceImpl implements QuestionService {

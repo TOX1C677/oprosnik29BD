@@ -1,5 +1,7 @@
 package main.java.service;
 
+import main.java.model.Survey;
+
 import java.util.List;
 
 public interface SurveyService {

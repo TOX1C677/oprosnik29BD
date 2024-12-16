@@ -1,5 +1,7 @@
 package main.java.service;
 
+import main.java.model.Question;
+
 import java.util.List;
 
 public interface QuestionService {

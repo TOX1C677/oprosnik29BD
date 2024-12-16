@@ -1,5 +1,6 @@
 package main.java.repository.memory;
 
+import main.java.model.Option;
 import main.java.repository.jdbc.OptionRepository;
 
 import java.util.ArrayList;

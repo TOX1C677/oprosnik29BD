@@ -1,5 +1,7 @@
 package main.java.repository.jdbc;
 
+import main.java.model.Question;
+
 import java.util.List;
 
 public interface QuestionRepository {

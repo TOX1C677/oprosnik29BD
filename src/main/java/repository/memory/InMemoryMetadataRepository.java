@@ -1,5 +1,6 @@
 package main.java.repository.memory;
 
+import main.java.model.Metadata;
 import main.java.repository.jdbc.MetadataRepository;
 
 import java.util.ArrayList;

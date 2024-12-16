@@ -1,4 +1,5 @@
 package main.java.repository.memory;
+import main.java.model.Question;
 import main.java.repository.jdbc.QuestionRepository;
 
 import java.util.ArrayList;

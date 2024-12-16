@@ -1,5 +1,8 @@
 package main.java.service;
 
+import main.java.model.Response;
+import main.java.repository.jdbc.ResponseRepository;
+
 import java.util.List;
 
 public class ResponseServiceImpl implements ResponseService {
