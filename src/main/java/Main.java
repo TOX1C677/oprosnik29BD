@@ -10,8 +10,6 @@ import main.java.service.QuestionServiceImpl;
 import main.java.service.SurveyService;
 import main.java.service.SurveyServiceImpl;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         // Инициализация репозиториев
